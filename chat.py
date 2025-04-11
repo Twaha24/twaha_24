@@ -1,5 +1,6 @@
 # Simple Chatbot in Python
-
+# this python program can be used to generate a simple chatbot, incase u need to improvise,you can also use list, dictionaries for a better
+#comment "help for any changes"
 def chatbot():
     print("Hello! I am your friendly chatbot. Type 'exit' to end the chat.")
     while True:
